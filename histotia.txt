@@ -1,1 +1,3 @@
 pruueba de git miremos el oreo commit
+
+una linea mas para validar el editor de texto vi
